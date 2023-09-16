@@ -1,0 +1,27 @@
+{
+    "fr_FR": {
+        "config": {
+            "html_language": "fr"
+        },
+        "firefly": {
+            "spent": "D\u00e9pens\u00e9",
+            "left": "Reste",
+            "paid": "Pay\u00e9",
+            "unpaid": "Impay\u00e9",
+            "default_group_title_name_plain": "non group\u00e9",
+            "overspent": "Trop d\u00e9pens\u00e9",
+            "money_flowing_in": "Entr\u00e9e",
+            "money_flowing_out": "Sortie",
+            "category": "Cat\u00e9gorie",
+            "unknown_category_plain": "Sans cat\u00e9gorie",
+            "all_money": "Tout votre argent",
+            "unknown_source_plain": "Compte source inconnu",
+            "unknown_dest_plain": "Compte de destination inconnu",
+            "unknown_any_plain": "Compte inconnu",
+            "unknown_budget_plain": "Pas de budget",
+            "expense_account": "Compte de d\u00e9penses",
+            "revenue_account": "Compte de recettes",
+            "budget": "Budget"
+        }
+    }
+}
